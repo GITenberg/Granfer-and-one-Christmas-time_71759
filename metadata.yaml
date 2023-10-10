@@ -1,0 +1,29 @@
+_repo: Granfer-and-one-Christmas-time_71759
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Woolmer, Ethel
+    gutenberg_agent_id: '56386'
+    url: http://www.gutenberg.org/2009/agents/56386
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    alias: Stooke, E. H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71759'
+language: en
+pgterms:marc905: 20230925143113stooke
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bNational Society''s Depository, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Granfer and one Christmas time
+url: http://www.gutenberg.org/ebooks/71759
